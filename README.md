@@ -9,6 +9,8 @@ This is a sample implementation of the EventBus that provides a way to implement
 
 You can also open the Dashboard by visiting the url `http://localhost:xxx/cap.`
 
+![Sample](https://github.com/mehmetdemirci/event-bus/blob/master/doc/sample.PNG "sample")
+
 ### License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
